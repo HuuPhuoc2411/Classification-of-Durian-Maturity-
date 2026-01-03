@@ -29,7 +29,9 @@ Faculty of Automation Engineering, College of Engineering
 Can Tho University, Vietnam  
 
 **Contact:** nhutthanh@ctu.edu.vn
+
 **Contact:** huuphuoc.research@gmail.com
+
 ---
 
 ## Abstract
