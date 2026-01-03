@@ -61,4 +61,12 @@ Kết quả cho thấy giải pháp đề xuất có tiềm năng lớn trong �
 - Cách âm  
 
 ---
+## Trích dẫn
+Bạn có thể trích dẫn bài báo này theo chuẩn IEEE như sau:
+
+[1]  H. P. Nguyen, T. P. Duong, V. L. Huynh, and N. T. Tran, 
+“Classification of Durian Maturity before Harvesting Using a Low-cost Recording Solution and Machine Learning Model,” 
+in *Tuyển tập Hội nghị – Triển lãm Quốc tế lần thứ 7 về Điều khiển và Tự động hóa (VCCA 2024)*, 
+Hai Phong, Vietnam: Maritime Publishing House, May 2024, pp. 744–751, 
+doi: 10.5281/zenodo.18136217
 
