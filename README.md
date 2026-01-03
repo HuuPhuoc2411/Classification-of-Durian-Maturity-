@@ -2,6 +2,7 @@
 
 ## Phân loại độ chín của sầu riêng trước khi thu hoạch sử dụng giải pháp thu âm giá rẻ và mô hình máy học
 
+- [DOI: doi.org/10.5281/zenodo.18136217](https://doi.org/10.5281/zenodo.18136217)
 ---
 
 ## Thông tin bài báo
